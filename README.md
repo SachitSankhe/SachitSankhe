@@ -6,9 +6,9 @@
 
 I am a programmer from Mumbai, India and I work on 💻Full stack dev,📱 Android, and learning many more things...
 
-* 🎓   Studying in penultimate year of bachelors of Information Technology at VJTI,Mumbai.
-* 🌱   Currently learning Go,Spring and LLM's
-* 📈   Fond of finances, equity market, National and International geopolitics.
+* 🎓   Completed B.Tech in IT from VJTI,Mumbai
+* 🌱   Currently learning GoLang and LLM's
+* 📈   Like reading about markets and geopolitics
 
 
 
